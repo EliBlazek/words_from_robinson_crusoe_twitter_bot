@@ -6,11 +6,11 @@ Dependencies:
 * Python > 3.6
 * Tweepy
 * Twitter developer account
-* A machine that runs Linux (for cron). 
+
 
 Fill in your API keys
 
-File runs as a cron process - currenty on WSL on my dev machine, I will later migrate it to RPi Mini.
+Currenty it runs as a process on Windows task scheduler, lol.
 
 ## Sources used while making this: 
 * https://team-coder.com/twitter-bot-with-python/
