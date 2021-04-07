@@ -1,4 +1,4 @@
-# A random word from Robinson Crusoe ten minutes - early build
+# A random word from Robinson Crusoe every ten minutes - early build
 ### Follow the bot on twitter: https://twitter.com/bot_crusoe
 
 It probably doesn´t work
