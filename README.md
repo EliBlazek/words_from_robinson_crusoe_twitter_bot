@@ -3,6 +3,8 @@
 
 It probably doesn´t work
 
+Robinson Crusoe by Daniel Defoe is from Project Gutenberg website. The book is public domain. 
+
 Dependencies: 
 * Python > 3.6
 * Tweepy
